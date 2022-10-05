@@ -1,0 +1,16 @@
+c Comentario comeca com c
+c A v B-> A v C
+c CNF: (~ A v A v C) /\ (~ B v A v C)
+c A = 1
+c B = 2
+c C = 3
+
+p cnf 3 3
+c SAT
+c -1 1 3 0
+c -2 1 3 0
+
+c Refutavel -> SIM
+c 1 2 0
+c -1 0
+c -3 0
