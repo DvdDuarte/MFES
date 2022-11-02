@@ -7,4 +7,7 @@
 [Train Station]()
 
 # Aulas 02/11/2022
-[Task](http://alloy4fun.inesctec.pt/B8gJkMpPNZzezJvDz)
+## Behavior
+[Todo](http://alloy4fun.inesctec.pt/B8gJkMpPNZzezJvDz)
+
+[Email](http://alloy4fun.inesctec.pt/TsamLzTErTpTXxEmz)
